@@ -54,12 +54,3 @@
 ## 😉 Get to know me!
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=abhinavrob&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=abhinavrob&redirect=true)
-
-<br />
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="Abhinav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbhinavRobinson&count_private=true&show_icons=true&include_all_commits=true" />
-  <img align="left" alt="aaryank's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavRobinson&hide=TeX&layout=compact" />
-</details>
-
-
