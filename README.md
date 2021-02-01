@@ -23,7 +23,7 @@
 
 <br />
 
-![trophy](https://github-profile-trophy.vercel.app/?username=AbhinavRobinson&margin-w=35&theme=nord&title=Commit,PR,Repo)
+![trophy](https://github-profile-trophy.vercel.app/?username=AbhinavRobinson&margin-w=35&theme=nord&rank=S,AAA,AA,A)
 
 ## 🔥 Technologies
 
