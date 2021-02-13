@@ -25,7 +25,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter) 
 ![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) 
-![Angular](https://img.shields.io/badge/-angular-darkred?style=flat-square&logo=angular) 
+![Angular](https://img.shields.io/badge/-angular-black?style=flat-square&logo=angular) 
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) 
