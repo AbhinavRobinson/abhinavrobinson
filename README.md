@@ -22,6 +22,8 @@
 
 ![React-Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react) 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express) 
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) 
 ![Electron](https://img.shields.io/badge/-Electron-black?style=flat-square&logo=electron) 
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter) 
 ![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart) 
@@ -29,7 +31,6 @@
 ![Angular](https://img.shields.io/badge/-angular-black?style=flat-square&logo=angular) 
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) 
 ![Deno](https://img.shields.io/badge/-Deno-black?style=flat-square&logo=Deno) 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) 
 ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java) 
