@@ -47,6 +47,8 @@
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![npm](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
+![yarn](https://img.shields.io/badge/-Yarn-black?style=flat-square&logo=yarn)
 
 ## 😉 Get to know me!
 
