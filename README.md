@@ -14,7 +14,7 @@
 
 <br />
 
-![trophy](https://github-profile-trophy.vercel.app/?username=AbhinavRobinson&margin-w=35&theme=nord&rank=S,AAA,AA,A)
+![trophy](https://github-profile-trophy.vercel.app/?username=AbhinavRobinson&margin-w=35&theme=nord&rank=S,AAA,AA,A&no-bg=true&no-frame=true)
 
 ## 🔥 Technologies
 
