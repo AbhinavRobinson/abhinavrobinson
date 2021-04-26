@@ -20,6 +20,7 @@
 
 ![React-Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react) 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go) 
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express) 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
