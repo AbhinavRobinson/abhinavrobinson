@@ -1,7 +1,8 @@
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/AbhinavRobinson/abhinavrobinson/master/assets/planets.jpg" alt="stacks"/>
-</h3>
-
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/AbhinavRobinson/abhinavrobinson/master/assets/planets.jpg" alt="stacks"/>
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/abhinav-robinson/count.svg" />
+</p>
 <br />
 
 [![Website Badge](https://img.shields.io/badge/-Design.Portfolio-teal?style=flat-square&url=https%3A%2F%2Fabhinavrobinson.github.io)](https://abhinavrobinson.github.io)
