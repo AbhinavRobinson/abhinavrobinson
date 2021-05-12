@@ -18,12 +18,14 @@
 
 <br />
 
-![React-Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react) 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
+![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c) 
+![.Net](https://img.shields.io/badge/-.Net-black?style=flat-square&logo=.net) 
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go) 
 ![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust) 
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express) 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) 
+![React-Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Electron](https://img.shields.io/badge/-Electron-black?style=flat-square&logo=electron) 
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter) 
