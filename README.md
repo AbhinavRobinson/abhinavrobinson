@@ -12,7 +12,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-abhinavrobinson@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhinavrobinson@gmail.com)](mailto:abhinavrobinson@gmail.com)
 <br />
 
-![trophy](https://github-profile-trophy.vercel.app/?username=AbhinavRobinson&margin-w=35&theme=nord&rank=S,AAA,AA,A&no-bg=true&no-frame=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=AbhinavRobinson&margin-w=35&theme=nord&rank=UNKOWN,SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true)
 
 ## 🔥 Technologies
 
