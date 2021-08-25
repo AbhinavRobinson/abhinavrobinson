@@ -51,6 +51,17 @@
 ![npm](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
 ![yarn](https://img.shields.io/badge/-Yarn-black?style=flat-square&logo=yarn)
 
+<p align="center">
+    <img
+        width="49%"
+        src="https://github-readme-stats.vercel.app/api?username=AbhinavRobinson&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
+    />
+    <img
+        width="49%"
+        src="https://github-readme-streak-stats.herokuapp.com?user=AbhinavRobinson&theme=tokyonight"
+    />
+</p>
+
 ## 😉 Get to know me!
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=abhinavrob&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=abhinavrob&redirect=true)
