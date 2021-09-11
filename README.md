@@ -16,6 +16,8 @@
 
 ## 🔥 Technologies
 
+<img height="200px" width="1200" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavrobinson&theme=dark"/>
+
 <br />
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
