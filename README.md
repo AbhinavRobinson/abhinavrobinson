@@ -52,7 +52,3 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![npm](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
 ![yarn](https://img.shields.io/badge/-Yarn-black?style=flat-square&logo=yarn)
-
-## 😉 Get to know me!
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=abhinavrob&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=abhinavrob&redirect=true)
