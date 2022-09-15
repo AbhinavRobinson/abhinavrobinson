@@ -3,6 +3,7 @@
   <h2 align="center">Visitor count<br><br>
   <img src="https://profile-counter.glitch.me/abhinav-robinson/count.svg" /></h2>
 </p>
+
 <br />
 
 [![Website Badge](https://img.shields.io/badge/-Design.Portfolio-teal?style=flat-square&url=https%3A%2F%2Fabhinavrobinson.github.io)](https://abhinavrobinson.github.io)
@@ -10,13 +11,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-abhinav.robinson-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/abhinav.robinson/)](https://instagram.com/abhinav.robinson)
 [![Dribbble Badge](https://img.shields.io/badge/-Dribbble-ea4c89?style=flat-square&logo=Dribbble&logoColor=white&link=https://dribbble.com/AbhinavR)](https://dribbble.com/AbhinavR)
 [![Gmail Badge](https://img.shields.io/badge/-abhinavrobinson@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhinavrobinson@gmail.com)](mailto:abhinavrobinson@gmail.com)
-<br />
-
-![trophy](https://github-profile-trophy.vercel.app/?username=AbhinavRobinson&margin-w=35&theme=nord&rank=UNKOWN,SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true)
-
-## 🔥 Technologies
-
-<img height="200px" width="1200" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavrobinson&theme=dark"/>
 
 <br />
 
