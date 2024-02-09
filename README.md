@@ -45,7 +45,3 @@
 ![npm](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
 ![yarn](https://img.shields.io/badge/-Yarn-black?style=flat-square&logo=yarn)
 ![pnpm](https://img.shields.io/badge/-Pnpm-black?style=flat-square&logo=pnpm)
-
-<br/>
-
-[![@abhinavrobinson's Holopin board](https://holopin.io/api/user/board?user=abhinavrobinson)](https://holopin.io/@abhinavrobinson)
