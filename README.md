@@ -1,5 +1,4 @@
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/AbhinavRobinson/abhinavrobinson/master/assets/banner.png" alt="stacks"/>
   <h2 align="center">Visitor count<br><br>
   <img src="https://profile-counter.glitch.me/abhinav-robinson/count.svg" /></h2>
 </p>
