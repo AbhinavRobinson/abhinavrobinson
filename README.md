@@ -1,10 +1,3 @@
-<p align="center"> 
-  <h2 align="center">Visitor count<br><br>
-  <img src="https://profile-counter.glitch.me/abhinav-robinson/count.svg" /></h2>
-</p>
-
-<br />
-
 [![Website Badge](https://img.shields.io/badge/-Portfolio-teal?style=flat-square&url=https%3A%2F%2Fabhinavrobinson.dev)](https://abhinavrobinson.dev)
 [![Linkedin Badge](https://img.shields.io/badge/-abhinavrobinson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinav-robinson-576429171i/)](https://www.linkedin.com/in/abhinav-robinson-576429171/)
 [![Dribbble Badge](https://img.shields.io/badge/-Dribbble-ea4c89?style=flat-square&logo=Dribbble&logoColor=white&link=https://dribbble.com/AbhinavR)](https://dribbble.com/AbhinavR)
